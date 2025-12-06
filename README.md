@@ -9,7 +9,7 @@
 **IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU BRICK YOUR DEVICE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
 
 ## > Notes
-Get your notes here by clicking this link: [Click here!](./guide/list_guides.md)
+Get your notes here by clicking this link: [Click here!](./guide/list_notes.md)
 
 ## > Get started/For beginners
 |Guide|Link|
